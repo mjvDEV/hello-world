@@ -1,2 +1,2 @@
 # hello-world
-My first repository! Let's learn some GitHub!
+I am a second year Computer Science student at the University of Saskatchewan.
